@@ -2,8 +2,8 @@
   "android": {
     "latest_version": "1.1.0",
     "minimum_version": "1.0.0",
-    "update_url": "https://play.google.com/store/apps/details?id=com.owlring.app",
-    "update_type": "optional",
+    "update_url": "https://owlsmartring.com",
+    "update_type": "force",
     "title": "Update Available",
     "message": "A new version of Owl Ring is available with performance improvements and bug fixes.",
     "release_notes": [
@@ -15,8 +15,8 @@
   "ios": {
     "latest_version": "1.1.0",
     "minimum_version": "1.0.0",
-    "update_url": "https://apps.apple.com/app/owl-ring/id123456789",
-    "update_type": "optional",
+    "update_url": "https://owlsmartring.com",
+    "update_type": "force",
     "title": "Update Available",
     "message": "A new version of Owl Ring is available with performance improvements and bug fixes.",
     "release_notes": [
